@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Web Development & AI**
 - 💡 Interested in **Software Engineering**
 - 🚀 Always exploring new technologies
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **aprity223101@bscse.uiu.ac.bd**
 
 ---
 
@@ -61,13 +61,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://facebook.com/YOUR_PROFILE">
+</a> -->
+<a href="https://facebook.com/fayrose.prity">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:aprity223101@bscse.uiu.ac.bd">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
