@@ -23,16 +23,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,git,github,vscode,mysql" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atkiafayrose&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atkiafayrose&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -40,15 +30,6 @@
 <img src="https://streak-stats.demolab.com?user=atkiafayrose&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=atkiafayrose&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
